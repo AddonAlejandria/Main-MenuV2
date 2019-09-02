@@ -43,3 +43,14 @@
         <epg></epg> 
         <fanart></fanart>
 </items>	
+	
+	   <item>
+        <title>Bartolo</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/AddonAlejandria/Main-Menu3/master/bartolo.xml</externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+</items>	
